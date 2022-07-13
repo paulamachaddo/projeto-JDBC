@@ -1,2 +1,2 @@
 # projeto-JDBC
-Projeto de aceeso ao banco de dados com JDBC.
+Projeto de acesso ao banco de dados com JDBC.
